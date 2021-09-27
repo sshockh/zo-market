@@ -1,8 +1,8 @@
-import './Management.css'
+import s from './Management.module.css';
 
 const Management = () => {
     return (
-        <div className="management-wrapper">
+        <div className={s.managementWrapper}>
             <h1>Management</h1>
         </div>
     )
