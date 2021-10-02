@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zo-market/static/css/main.c701a9e9.chunk.css",
-    "main.js": "/zo-market/static/js/main.44944d0b.chunk.js",
-    "main.js.map": "/zo-market/static/js/main.44944d0b.chunk.js.map",
+    "main.js": "/zo-market/static/js/main.c3b4f16c.chunk.js",
+    "main.js.map": "/zo-market/static/js/main.c3b4f16c.chunk.js.map",
     "runtime-main.js": "/zo-market/static/js/runtime-main.c3c9153f.js",
     "runtime-main.js.map": "/zo-market/static/js/runtime-main.c3c9153f.js.map",
     "static/js/2.43fb175b.chunk.js": "/zo-market/static/js/2.43fb175b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c3c9153f.js",
     "static/js/2.43fb175b.chunk.js",
     "static/css/main.c701a9e9.chunk.css",
-    "static/js/main.44944d0b.chunk.js"
+    "static/js/main.c3b4f16c.chunk.js"
   ]
 }
