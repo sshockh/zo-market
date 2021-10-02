@@ -1,0 +1,14 @@
+.main {
+    justify-self    : center;
+    width           : 100%;
+    background-color: cyan;
+
+    min-height: 1300px;
+
+}
+
+@media (min-width: 1515px) {
+    .main {
+        width: 1500px;
+    }
+}

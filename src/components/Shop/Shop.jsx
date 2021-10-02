@@ -1,11 +1,11 @@
 import Footer from './Footer/Footer';
 import Header from './Header/Header';
 import Main from './Main/Main';
-import s from './Store.module.css';
+import s from './Shop.module.css';
 
-const Store = () => {
+const Shop = () => {
     return (
-        <div className={s.store}>
+        <div className={s.shop}>
             <Header />
             <Main />
             <Footer />
@@ -13,4 +13,4 @@ const Store = () => {
     )
 }
 
-export default Store;
+export default Shop;
