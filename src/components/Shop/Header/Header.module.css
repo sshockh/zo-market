@@ -1,6 +1,11 @@
 .header {
+
+    background-color: chartreuse;
+}
+
+.stickyHeader {
     position: sticky;
     top     : 0;
 
-    background-color: chartreuse;
+    background-color: lightgoldenrodyellow;
 }
