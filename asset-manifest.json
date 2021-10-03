@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zo-market/static/css/main.c724d678.chunk.css",
-    "main.js": "/zo-market/static/js/main.472b7f9a.chunk.js",
-    "main.js.map": "/zo-market/static/js/main.472b7f9a.chunk.js.map",
+    "main.css": "/zo-market/static/css/main.9189c888.chunk.css",
+    "main.js": "/zo-market/static/js/main.12734110.chunk.js",
+    "main.js.map": "/zo-market/static/js/main.12734110.chunk.js.map",
     "runtime-main.js": "/zo-market/static/js/runtime-main.f06a14bd.js",
     "runtime-main.js.map": "/zo-market/static/js/runtime-main.f06a14bd.js.map",
-    "static/js/2.a0c06187.chunk.js": "/zo-market/static/js/2.a0c06187.chunk.js",
-    "static/js/2.a0c06187.chunk.js.map": "/zo-market/static/js/2.a0c06187.chunk.js.map",
+    "static/js/2.a8f87724.chunk.js": "/zo-market/static/js/2.a8f87724.chunk.js",
+    "static/js/2.a8f87724.chunk.js.map": "/zo-market/static/js/2.a8f87724.chunk.js.map",
     "static/js/3.8c7fb71c.chunk.js": "/zo-market/static/js/3.8c7fb71c.chunk.js",
     "static/js/3.8c7fb71c.chunk.js.map": "/zo-market/static/js/3.8c7fb71c.chunk.js.map",
     "index.html": "/zo-market/index.html",
-    "static/css/main.c724d678.chunk.css.map": "/zo-market/static/css/main.c724d678.chunk.css.map",
-    "static/js/2.a0c06187.chunk.js.LICENSE.txt": "/zo-market/static/js/2.a0c06187.chunk.js.LICENSE.txt"
+    "static/css/main.9189c888.chunk.css.map": "/zo-market/static/css/main.9189c888.chunk.css.map",
+    "static/js/2.a8f87724.chunk.js.LICENSE.txt": "/zo-market/static/js/2.a8f87724.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f06a14bd.js",
-    "static/js/2.a0c06187.chunk.js",
-    "static/css/main.c724d678.chunk.css",
-    "static/js/main.472b7f9a.chunk.js"
+    "static/js/2.a8f87724.chunk.js",
+    "static/css/main.9189c888.chunk.css",
+    "static/js/main.12734110.chunk.js"
   ]
 }
