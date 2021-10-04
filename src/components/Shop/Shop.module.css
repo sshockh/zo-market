@@ -1,8 +1,32 @@
 .shop {
-    margin: auto;
-
     display              : grid;
     grid-template-columns: 1fr;
-    grid-template-rows   : 50px 50px 1fr 50px;
-    min-height           : 100vh;
+    grid-template-rows   : 40px 55px minmax(auto, 1fr) 50px;
+}
+
+.nav {
+    height: 100%;
+}
+
+.header {
+    /* "липкий" header */
+    position        : sticky;
+    top             : 0;
+    background-color: white;
+    padding         : 10px;
+}
+
+.footer {
+    background-color: darkgrey;
+}
+
+.contentContainer {
+    height: 100%;
+    margin: auto;
+}
+
+@media (min-width: 1515px) {
+    .contentContainer {
+        max-width: 1500px;
+    }
 }

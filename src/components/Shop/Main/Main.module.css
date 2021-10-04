@@ -1,14 +1,6 @@
 .main {
-    justify-self    : center;
-    width           : 100%;
-    background-color: cyan;
-
-    min-height: 1300px;
-
-}
-
-@media (min-width: 1515px) {
-    .main {
-        width: 1500px;
-    }
+    margin        : 20px 0;
+    display       : grid;
+    grid-auto-rows: minmax(300px, auto);
+    row-gap       : 20px;
 }

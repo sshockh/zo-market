@@ -1,11 +1,31 @@
 .header {
-
-    background-color: chartreuse;
+    height               : 100%;
+    display              : grid;
+    grid-template-columns: auto auto minmax(100px, 650px) 1fr;
+    column-gap           : 20px;
 }
 
-.stickyHeader {
-    position: sticky;
-    top     : 0;
 
-    background-color: lightgoldenrodyellow;
+.logo>img {
+    height: 32px;
+}
+
+.catalog>button {
+    height: 40px;
+    width : 150px;
+}
+
+.search>input {
+    height: 40px;
+    width : 100%;
+    border: 1px solid gray;
+}
+
+.buttons {
+    display              : grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.button>img {
+    height: 20px;
 }
